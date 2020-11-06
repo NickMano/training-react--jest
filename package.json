@@ -67,10 +67,5 @@
   "bugs": {
     "url": "https://github.com/gndx/platzi-store/issues"
   },
-  "homepage": "https://github.com/gndx/platzi-store/#readme",
-  "jest": {
-    "setupFilesafterEnv": [
-      "<rootDir>/src/__test__/setupTest.js"
-    ]
-  }
+  "homepage": "https://github.com/gndx/platzi-store/#readme"
 }
