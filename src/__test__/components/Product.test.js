@@ -4,8 +4,8 @@ import ProviderMock from '../../__mocks__/ProviderMock'
 import {mount, shallow} from 'enzyme'
 import ProductMock from '../../__mocks__/ProductMock'
 
-describe('<Provider />', () => {
-    test('Rendering Provider component', () => {
+describe('<Product />', () => {
+    test('Rendering Product component', () => {
         const product = shallow(
         <ProviderMock>
             <Product />
