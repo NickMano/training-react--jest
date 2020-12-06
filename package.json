@@ -1,5 +1,5 @@
 {
-  "name": "platzi-store",
+  "name": "training-react-jest",
   "version": "1.0.0",
   "description": "Proyecto para el curso de Jest",
   "main": "src/index.js",
